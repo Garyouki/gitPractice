@@ -1,2 +1,2 @@
 # gitPractice
-#This is github in cse 237
+This is github in cse 237
